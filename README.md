@@ -8,7 +8,7 @@
 
 ### Childhood
 
-Machines have always taken me by surprise. They held a magical place in my heart, right from my childhood. It was my dad’s continuous tapping of the keyboard, sighing at times and at other times jumping up in excitement with a spark of victory in his eyes that kindled this love in me. The intriguing keyboards and flashy monitors ignited in the then 4-year-old an unexplainable passion towards computers.
+Machines have always taken me by surprise. They held a magical place in my heart, right from my childhood. It was my dad’s continuous tapping of the keyboard, sighing at times and at other times jumping up in excitement with a spark of victory in his eyes that kindled this love in me. The intriguing keyboards and flashy monitors ignited in the then 4-year-old an unexplainable passion towards computers. Along with that, it was my mom's stongwill and determination qualities in life which I learned that kept the this pure love and passion in motion.
 
 
 
