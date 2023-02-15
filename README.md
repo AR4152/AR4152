@@ -1,12 +1,15 @@
 # Hi there, I'm AR4152 👋
 
+<img src="assests/ME.jpg" width="300" align=right>
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.arjunraj.com/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ar4152)
 
 
 ### Childhood
+
 Machines have always taken me by surprise. They held a magical place in my heart, right from my childhood. It was my dad’s continuous tapping of the keyboard, sighing at times and at other times jumping up in excitement with a spark of victory in his eyes that kindled this love in me. The intriguing keyboards and flashy monitors ignited in the then 4-year-old an unexplainable passion towards computers.
+
 
 
 ### Present
