@@ -29,6 +29,11 @@ I enjoy learning :book: Computer Science :computer:, Math :triangular_ruler: and
 | Learned | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 
+## Future :sunglasses:
+
+I have been visualizing myself as a Computer Science researcher specializing in AI and use the same to make our world a better place to live in. One of the research areas I’m extremely interested in is the implementation of advanced-yet-affordable AI technology in people’s daily lives and tasks.
+
+
 <!--
 **AR4152/AR4152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
